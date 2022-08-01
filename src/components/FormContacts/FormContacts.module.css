@@ -1,0 +1,29 @@
+.label{
+    display: block;
+margin-bottom: 6px;
+}
+.input{
+    margin-top: 3px;
+display: block;
+font-size: 15px;
+}
+.button{
+    display: block;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+background-color: aquamarine;
+border-radius: 2px;
+border: 1px solid rgb(53, 161, 182);
+font-size: 17px;
+}
+.button:hover{
+    background-color: rgb(5, 148, 55);
+}
+.form{
+    padding: 10px;
+    border: 2px solid rgba(71, 68, 68, 0.358);
+    width:300px;
+    border-radius: 6px;
+}
